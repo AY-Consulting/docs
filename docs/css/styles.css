@@ -1,6 +1,9 @@
 :root > * {
   --md-typeset-a-color:#fff6da;
   --md-accent-fg-color: #d8ccaa;
+  --md-primary-fg-color:        #16404D;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #11a843;
 }
 
 /* To remove indigo default color for links */
