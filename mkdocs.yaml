@@ -4,8 +4,8 @@
 site_name: AY Consulting - Github Docs
 site_author: Anders
 site_dir: _site
-repo_url: https://github.com/Anders-AS/docs
-repo_name: AY Consulting /docs
+repo_url: https://github.com/AY-Consulting/docs
+repo_name: AY-Consulting/docs
 docs_dir: docs
  
 copyright: Made by AY Consulting 
