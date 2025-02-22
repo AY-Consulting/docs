@@ -1,0 +1,17 @@
+:root > * {
+  --md-typeset-a-color:#fff6da;
+  --md-accent-fg-color: #d8ccaa;
+}
+
+/* To remove indigo default color for links */
+[data-md-color-scheme="slate"][data-md-color-primary="black"] {
+  --md-typeset-a-color:#d8ccaa;
+  --md-accent-fg-color: #fff6da;
+}
+
+.md-header__button.md-logo {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
