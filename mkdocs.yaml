@@ -1,7 +1,7 @@
 # mkdocs.yaml
  
 # Site
-site_name: AY Consulting - Github Docs
+site_name: Github Docs
 site_author: Anders
 site_dir: _site
 repo_url: https://github.com/AY-Consulting/docs
