@@ -98,4 +98,7 @@ theme:
 # Extra
 extra_css:
 - css/styles.css
+
+extra_javascript:
+  - assets/imgs/iframe-demo.html
  
