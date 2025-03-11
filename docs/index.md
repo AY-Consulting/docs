@@ -4,8 +4,5 @@ You can find information about code produced by AY Consulting in this space.
 
 ## iFrame Demo
 
-<div class="map">
-  <iframe src="assets/img/iframe-demo.html"></iframe>
-</div>
-
+<iframe width=700, height=500 frameBorder=0 src="assets/img/iframe-demo.html"></iframe>
 ---
