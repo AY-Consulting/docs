@@ -18,6 +18,8 @@ plugins:
 # Navigation
 nav:
   - Home: index.md
+  - Guides:
+    - Demo: new_site.md
  
 # Theme
 theme:
