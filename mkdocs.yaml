@@ -100,5 +100,5 @@ extra_css:
 - css/styles.css
 
 extra_javascript:
-  - assets/imgs/iframe-demo-iframe-embed.html
+- assets/imgs/iframe-demo-iframe-embed.html
  
