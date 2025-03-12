@@ -4,6 +4,7 @@
 site_name: Github Docs
 site_author: Anders
 site_dir: _site
+site_url: https://ay-consulting.github.io/
 repo_url: https://github.com/AY-Consulting/docs
 repo_name: AY-Consulting/docs
 docs_dir: docs
